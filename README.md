@@ -1,4 +1,4 @@
 # samsung
 <br>
 
-Author: Bandana Singh
+Author: Bandana Singh (Samsung)
